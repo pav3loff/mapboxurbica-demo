@@ -1,0 +1,13 @@
+.bolt-icon {
+  -webkit-animation: fadein 0.5s;
+  cursor: pointer;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

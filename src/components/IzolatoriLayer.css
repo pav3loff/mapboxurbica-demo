@@ -1,0 +1,17 @@
+.izolator-icon {
+  -webkit-animation: fadein 0.5s;
+  cursor: pointer;
+}
+
+.drawer-item {
+  justify-content: center !important;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
